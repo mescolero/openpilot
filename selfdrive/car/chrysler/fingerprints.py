@@ -106,6 +106,7 @@ FW_VERSIONS = {
       b'68527346AE',
       b'68527375AD',
       b'68527382AE',
+      b'68453487AD',
     ],
     (Ecu.srs, 0x744, None): [
       b'68428609AB',
@@ -130,6 +131,7 @@ FW_VERSIONS = {
       b'68535470AC',
       b'68548900AB',
       b'68586307AB',
+      b'68438453AD',
     ],
     (Ecu.fwdRadar, 0x753, None): [
       b'04672892AB',
@@ -165,6 +167,7 @@ FW_VERSIONS = {
       b'68585106AB',
       b'68585109AB',
       b'68585112AB',
+      b'68469904AA',
     ],
     (Ecu.engine, 0x7e0, None): [
       b'05036065AE ',
@@ -181,6 +184,7 @@ FW_VERSIONS = {
       b'68500630AD',
       b'68500630AE',
       b'68539650AD',
+      b'68502718AD ',
     ],
     (Ecu.transmission, 0x7e1, None): [
       b'05149536AC',
@@ -195,6 +199,7 @@ FW_VERSIONS = {
       b'68502994AD',
       b'68520867AE',
       b'68540431AB',
+      b'68484471AC',
     ],
   },
   CAR.RAM_HD: {
